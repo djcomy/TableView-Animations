@@ -1,9 +1,11 @@
 #EXTM3U
 
 #EXTINF :0, RTS1
-http://92.60.230.204:7503/rts1/index.m3u8
+http://92.60.230.204:7503/rts1/index.m3u8
+
 #EXTINF :0, RTS 2
-http://92.60.230.205:7502/rts2/index.m3u8
+http://92.60.230.205:7502/rts2/index.m3u8
+
 #EXTINF :0,RTS3
 http://92.60.230.205:7503/rts3/index.m3u8
 #EXTINF :0, RTSHD
