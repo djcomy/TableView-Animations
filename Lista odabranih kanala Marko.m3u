@@ -1,0 +1,366 @@
+#EXTM3U
+
+#EXTINF :0, RTS1
+http://92.60.230.204:7503/rts1/index.m3u8
+#EXTINF :0, RTS 2
+http://92.60.230.205:7502/rts2/index.m3u8
+#EXTINF :0,RTS3
+http://92.60.230.205:7503/rts3/index.m3u8
+#EXTINF :0, RTSHD
+http://92.60.230.205:7508/rtshd/index.m3u8
+#EXTINF :0, B92
+http://92.60.230.204:7501/b92/index.m3u8
+#EXTINF :0, Prva
+http://92.60.230.204:7504/prva/index.m3u8
+#EXTINF :0, Pink
+http://92.60.230.204:7513/pinkpink/index.m3u8
+#EXTINF :0, Happy
+http://92.60.230.204:7502/happy/index.m3u8
+#EXTINF :0, Belle Amie
+http://92.60.230.204:7507/belleamie/index.m3u8
+#EXTINF :0, NTV
+http://92.60.230.205:7515/ntv/index.m3u8
+#EXTINF :0, Studio B
+http://92.60.230.205:7516/studiob/index.m3u8
+#EXTINF :0, N1
+http://92.60.230.205:7524/n1srb/index.m3u8
+#EXTINF :0, B92Info
+http://92.60.230.205:7522/b92info/index.m3u8
+#EXTINF :0, Prva Plus
+http://92.60.230.205:7516/prvaplus/index.m3u8
+#EXTINF :0, Srpska Naucna Televizija
+http://92.60.230.204:7530/sntv/index.m3u8
+#EXTINF :0, RTV1
+http://92.60.230.205:7516/rtv1/index.m3u8
+#EXTINF :0, RTV2
+http://92.60.230.205:7518/rtv2/index.m3u8
+#EXTINF :0, Al Jazeera
+http://92.60.230.205:7518/aljazeera/index.m3u8
+#EXTINF :0, RTRS
+http://92.60.230.205:7517/rtrs/index.m3u8
+#EXTINF :0, RTRS Plus
+http://92.60.230.205:7517/rtrsplus/index.m3u8
+BN Sat TV
+http://92.60.230.204:7509/bnsattv/index.m3u8
+#EXTINF :0, OBN
+http://92.60.230.205:7518/obn/index.m3u8
+#EXTINF :0, IDX
+http://92.60.230.205:7518/idx/index.m3u8
+#EXTINF :0, Klasik TV
+http://92.60.230.205:7518/klasik/index.m3u8
+#EXTINF :0, Grand TV
+http://92.60.230.205:7522/grand/index.m3u8
+#EXTINF :0, Kopernikus 1
+http://92.60.230.205:7519/kcn1/index.m3u8
+#EXTINF :0, Kopernikus 2
+http://92.60.230.205:7518/kopernikus/index.m3u8
+#EXTINF :0, Kopernikus 3
+http://92.60.230.205:7518/svetpluskop/index.m3u8
+#EXTINF :0, BN Music
+http://92.60.230.205:7518/bnmusic/index.m3u8
+#EXTINF :0, Duga TV
+http://92.60.230.205:7518/dugatv/index.m3u8
+#EXTINF :0, HRT1 
+http://92.60.230.205:7519/hrt1/index.m3u8
+#EXTINF :0, HRT2
+http://92.60.230.205:7519/hrt2/index.m3u8
+#EXTINF :0, HRT3
+http://92.60.230.205:7519/hrt3/index.m3u8
+#EXTINF :0, HRT4
+http://92.60.230.205:7519/hrt4/index.m3u8
+#EXTINF :0, Sky Plus
+http://92.60.230.205:7519/skyplus/index.m3u8
+#EXTINF :0, Slo1
+http://92.60.230.205:7519/slo1/index.m3u8
+#EXTINF :0, Slo2
+http://92.60.230.205:7519/slo2/index.m3u8
+#EXTINF :0, Slo3
+http://92.60.230.205:7519/slo3/index.m3u8
+#EXTINF :0, DM Sat
+http://92.60.230.205:7521/dmsat/index.m3u8
+#EXTINF :0, Fashion TV1
+http://92.60.230.205:7521/fashiontv/index.m3u8
+#EXTINF :0, Fashion TV2
+http://92.60.230.205:7521/fashiontv2/index.m3u8
+#EXTINF :0, World Fashion
+http://92.60.230.204:7518/worldfashion/index.m3u8
+#EXTINF :0, MTV Adria
+http://92.60.230.205:7519/mtvadria/index.m3u8
+#EXTINF :0, VH1
+http://92.60.230.205:7519/vh1/index.m3u8
+#EXTINF :0, Mooz Dance
+http://92.60.230.204:7525/moozdance/index.m3u8
+#EXTINF :0, Hayat Music
+http://92.60.230.205:7519/hayatmusic/index.m3u8
+#EXTINF :0, Balkanika
+http://92.60.230.205:7521/balkanika/index.m3u8
+#EXTINF :0, 360Tunebox
+http://92.60.230.205:7523/360tunebox/index.m3u8
+#EXTINF :0, The Voice
+http://92.60.230.205:7521/thevoice/index.m3u8
+#EXTINF :0, Mezzo
+http://92.60.230.204:7525/mezzo/index.m3u8
+#EXTINF :0, City Tv
+http://92.60.230.205:7521/citytv/index.m3u8
+#EXTINF :0, Arena 1
+http://92.60.230.204:7529/arena1/index.m3u8
+#EXTINF :0, Arena 2
+http://92.60.230.204:7529/arena2/index.m3u8
+#EXTINF :0, Arena 3
+http://92.60.230.204:7529/arena3/index.m3u8
+#EXTINF :0, Arena 4
+http://92.60.230.204:7529/arena4/index.m3u8
+#EXTINF :0, Arena 5
+http://92.60.230.205:7521/arena5/index.m3u8
+#EXTINF :0, SOS
+http://92.60.230.205:7524/sos/index.m3u8
+#EXTINF :0, Eurosport1 
+http://92.60.230.205:7520/eurosport/index.m3u8
+#EXTINF :0, Eurosport2
+http://92.60.230.205:7521/eurosport2/index.m3u8
+#EXTINF :0, Super Tennis
+http://92.60.230.205:7522/supertenis/index.m3u8
+#EXTINF :0, Fight Box HD
+http://92.60.230.204:7516/fightboxhd/index.m3u8
+#EXTINF :0, Pink Fight Network
+http://92.60.230.205:7512/pinkfightnetwork/index.m3u8
+#EXTINF :0, Motors TV
+http://92.60.230.204:7524/motorstv/index.m3u8
+#EXTINF :0, AMS
+http://92.60.230.204:7524/ams/index.m3u8
+#EXTINF :0, CI
+http://92.60.230.204:7516/ci/index.m3u8
+#EXTINF :0, History
+http://92.60.230.204:7516/history/index.m3u8
+#EXTINF :0, Viasat History
+http://92.60.230.205:7520/viasathistory/index.m3u8
+#EXTINF :0, Travel
+http://92.60.230.204:7520/travel/index.m3u8
+#EXTINF :0, Docubox HD
+http://92.60.230.204:7516/docuboxhd/index.m3u8
+#EXTINF :0, National Geographic
+http://92.60.230.204:7526/natgeo/index.m3u8
+#EXTINF :0, National Geographic Wild
+http://92.60.230.204:7526/ngwild/index.m3u8
+#EXTINF :0, Viasat Nature
+http://92.60.230.204:7527/viasatnature/index.m3u8
+#EXTINF :0, Viasat Explorer
+http://92.60.230.205:7520/viasatexplore/index.m3u8
+#EXTINF :0, TLC
+http://92.60.230.204:7527/tlc/index.m3u8
+#EXTINF :0, Fine Living
+http://92.60.230.204:7520/fineliving/index.m3u8
+#EXTINF :0, Food Network
+http://92.60.230.204:7520/foodnetwork/index.m3u8
+#EXTINF :0, 24 Kitchen
+http://92.60.230.204:7519/24kitchen/index.m3u8
+#EXTINF :0, TV 1000
+http://92.60.230.205:7520/tv1000/index.m3u8
+#EXTINF :0, SCI FI
+http://92.60.230.205:7521/scifi/index.m3u8
+#EXTINF :0, Animal Planet
+http://92.60.230.205:7521/animalplanet/index.m3u8
+#EXTINF :0, AXN
+http://92.60.230.204:7515/axn/index.m3u8
+#EXTINF :0, AXN Spin
+http://92.60.230.204:7515/axnspin/index.m3u8
+#EXTINF :0, Film Box
+http://92.60.230.204:7515/filmbox/index.m3u8
+#EXTINF :0, FB Art House
+http://92.60.230.204:7516/fbarthouse/index.m3u8
+#EXTINF :0, Nickelodeon
+http://92.60.230.204:7523/nickelodeon/index.m3u8
+#EXTINF :0, Cartoon Network
+http://92.60.230.205:7521/cn/index.m3u8
+#EXTINF :0, Nick Jr
+http://92.60.230.205:7522/nickjr/index.m3u8
+#EXTINF :0, Minimax
+http://92.60.230.205:7520/minimax/index.m3u8
+#EXTINF :0, Disney Channel
+http://92.60.230.205:7520/disneychannel/index.m3u8
+#EXTINF :0, Pink Kids
+http://92.60.230.205:7512/pinkkids/index.m3u8
+#EXTINF :0, Pink Suepr Kids
+http://92.60.230.205:7513/pinksuperkids/index.m3u8
+#EXTINF :0, Jim Jam
+http://92.60.230.204:7523/jimjam/index.m3u8
+#EXTINF :0, Duck TV
+http://92.60.230.204:7523/ducktv/index.m3u8
+#EXTINF :0, Hayatovci
+http://92.60.230.205:7518/hayatovci/index.m3u8
+#EXTINF :0, Pink 1
+http://92.60.230.204:7513/pinkpink/index.m3u8
+#EXTINF :0, Pink 2
+http://92.60.230.205:7512/pink2/index.m3u8
+#EXTINF :0, Pink 3
+http://92.60.230.205:7513/pink3/index.m3u8
+#EXTINF :0, Pink M
+http://92.60.230.205:7512/pinkm/index.m3u8
+#EXTINF :0, Pink BH
+http://92.60.230.204:7511/pinkbh/index.m3u8
+#EXTINF :0, Pink Kuvar
+http://92.60.230.205:7513/pinkkuvar/index.m3u8
+#EXTINF :0, Pink Pedia
+http://92.60.230.205:7514/pinkpedia/index.m3u8
+#EXTINF :0, Pink Family
+http://92.60.230.205:7512/pinkfamily/index.m3u8
+#EXTINF :0, Pink Film
+http://92.60.230.204:7513/pinkfilm/index.m3u8
+#EXTINF :0, Pink Premium
+http://92.60.230.204:7512/pinkpremium/index.m3u8
+#EXTINF :0, Pink Serije
+http://92.60.230.205:7513/pinkserije/index.m3u8
+#EXTINF :0, Pink Action
+http://92.60.230.204:7510/pinkaction/index.m3u8
+#EXTINF :0, Pink Thriller
+http://92.60.230.204:7513/pinkthriller/index.m3u8
+#EXTINF :0, Pink Crime Mistery
+http://92.60.230.204:7512/pinkcrimemistery/index.m3u8
+#EXTINF :0, Pink Movies
+http://92.60.230.204:7513/pinkmovies/index.m3u8
+#EXTINF :0, Pink Romance
+http://92.60.230.204:7512/pinkromance/index.m3u8
+#EXTINF :0, Pink SciFi Fantasy
+http://92.60.230.204:7512/pinkscififantasy/index.m3u8
+#EXTINF :0, Pink Comedy
+http://92.60.230.205:7514/pinkcomedy/index.m3u8
+#EXTINF :0, Pink Western
+http://92.60.230.205:7524/pinkwestern/index.m3u8
+#EXTINF :0, Pink Classic
+http://92.60.230.205:7524/pinkclassic/index.m3u8
+#EXTINF :0, Pink Horror
+http://92.60.230.205:7514/pinkhorror/index.m3u8
+#EXTINF :0, Pink Reality
+http://92.60.230.204:7512/pinkreality/index.m3u8
+#EXTINF :0, Pink Soap
+http://92.60.230.204:7512/pinksoap/index.m3u8
+#EXTINF :0, Pink World
+http://92.60.230.204:7512/pinkworld/index.m3u8
+#EXTINF :0, Pink World Cinema
+http://92.60.230.205:7513/pinkworldcinema/index.m3u8
+#EXTINF :0, Pink Zabava
+http://92.60.230.204:7512/pinkzabava/index.m3u8
+#EXTINF :0, Pink Music 1
+http://92.60.230.205:7512/pinkmusic/index.m3u8
+#EXTINF :0, Pink Music 2
+http://92.60.230.205:7512/pinkmusic2/index.m3u8
+#EXTINF :0, Pink Hits 1
+http://92.60.230.205:7511/pinkhits/index.m3u8
+#EXTINF :0, Pink Hits 2
+http://92.60.230.205:7514/pinkhits2/index.m3u8
+#EXTINF :0, Pink Parada
+http://92.60.230.205:7512/pinkparada/index.m3u8
+#EXTINF :0, Pink Koncert
+http://92.60.230.204:7512/pinkkoncert/index.m3u8
+#EXTINF :0, Pink Roll
+http://92.60.230.204:7514/pinkroll/index.m3u8
+#EXTINF :0, Pink Folk 1
+http://92.60.230.204:7512/pinkfolk/index.m3u8
+#EXTINF :0, Pink Folk 2
+http://92.60.230.205:7514/pinkfolk2/index.m3u8
+#EXTINF :0, Pink Bravo Music
+http://92.60.230.205:7524/pinkbravomusic/index.m3u8
+#EXTINF :0, Pink Style
+http://92.60.230.205:7524/pinkstyle/index.m3u8
+#EXTINF :0, Pink Fashion
+http://92.60.230.204:7513/pinkfashion/index.m3u8
+#EXTINF :0, Pink Plus
+http://92.60.230.204:7513/pinkplus/index.m3u8
+#EXTINF :0, Pink Extra
+http://92.60.230.204:7512/pinkextra/index.m3u8
+#EXTINF :0, Pink Show
+http://92.60.230.205:7513/pinkshow/index.m3u8
+#EXTINF :0, BBC World News
+http://92.60.230.205:7520/bbcworldnews/index.m3u8
+#EXTINF :0, Sky News
+http://92.60.230.204:7521/skynews/index.m3u8
+#EXTINF :0, EuroNews
+http://92.60.230.205:7520/euronews/index.m3u8
+#EXTINF :0, CNN
+http://92.60.230.204:7521/cnn/index.m3u8
+#EXTINF :0, CCTV News
+http://92.60.230.204:7521/cctvnews/index.m3u8
+#EXTINF :0, CCTV4
+http://92.60.230.204:7521/cctv4/index.m3u8
+#EXTINF :0, Russia 24
+http://92.60.230.204:7528/russia24/index.m3u8
+#EXTINF :0, RTR Planeta
+http://92.60.230.204:7528/rtrplaneta/index.m3u8
+#EXTINF :0, Arte
+http://92.60.230.205:7522/arte/index.m3u8
+#EXTINF :0, Ort
+http://92.60.230.205:7520/ort/index.m3u8
+#EXTINF :0, RT Doc
+http://92.60.230.205:7520/rtdoc/index.m3u8
+#EXTINF :0, RT
+http://92.60.230.204:7521/rt/index.m3u8
+#EXTINF :0, France24
+http://92.60.230.204:7521/france24/index.m3u8
+#EXTINF :0, A1TV
+http://92.60.230.205:10172/t06/a1tv.stream/playlist.m3u8
+#EXTINF :0, RTS SAT
+http://92.60.230.205:7519/rtssat/index.m3u8
+#EXTINF :0, Atlas
+http://92.60.230.205:7523/atlas/index.m3u8
+#EXTINF :0, E! Kanal
+http://92.60.230.205:7520/ekanal/index.m3u8
+#EXTINF :0, Universal
+http://92.60.230.204:7520/universal/index.m3u8
+#EXTINF :0, SciFi Orig
+http://92.60.230.205:7520/scifiorig/index.m3u8
+#EXTINF :0, Cinemania
+http://92.60.230.205:7524/cinemania/index.m3u8
+#EXTINF :0, Baby TV
+http://92.60.230.205:7524/babytv/index.m3u8
+#EXTINF :0, Mini Ultra
+http://92.60.230.205:7524/miniultra/index.m3u8
+#EXTINF :0, Ultra
+http://92.60.230.205:7524/ultra/index.m3u8
+#EXTINF :0, CBS Reality
+http://92.60.230.205:7524/cbsreality/index.m3u8
+#EXTINF :0, CBS Drama
+http://92.60.230.205:7524/cbsdrama/index.m3u8
+#EXTINF :0, Extreme Channel
+http://92.60.230.204:7527/extremechannel/index.m3u8
+#EXTINF :0, Banker TV
+http://92.60.230.205:7524/banker/index.m3u8
+#EXTINF :0, OBN Plus
+http://92.60.230.205:7518/obnplus/index.m3u8
+#EXTINF :0, Erotic 1
+http://92.60.230.205:7524/erotic1/index.m3u8
+#EXTINF :0, Erotic 2
+http://92.60.230.205:7524/erotic2/index.m3u8
+#EXTINF :0, Erotic 3
+http://92.60.230.205:7524/erotic3/index.m3u8
+#EXTINF :0, Erotic 4
+http://92.60.230.205:7524/erotic4/index.m3u8
+#EXTINF :0, Erotic 5
+http://92.60.230.205:7514/erotic5/index.m3u8
+#EXTINF :0, Erotic 6
+http://92.60.230.205:7514/erotic6/index.m3u8
+#EXTINF :0, Erotic 7
+http://92.60.230.205:7514/erotic7/index.m3u8
+#EXTINF :0, Erotic 8
+http://92.60.230.205:7514/erotic8/index.m3u8
+#EXTINF :0, Erox HD
+http://92.60.230.204:7516/eroxhd/index.m3u8
+#EXTINF :0, Eroxxx HD
+http://92.60.230.204:7516/eroxxxhd/index.m3u8
+#EXTINF :0, Platinum Spice
+http://92.60.230.205:7521/platinumspice/index.m3u8
+#EXTINF :0, Super One
+http://92.60.230.205:7521/superone/index.m3u8
+#EXTINF :0, Brazzers
+http://92.60.230.204:7517/brazzers/index.m3u8
+#EXTINF :0, Reality Kings
+http://92.60.230.204:7517/realitykings/index.m3u8
+#EXTINF :0, Playboy
+http://92.60.230.204:7517/playboy/index.m3u8
+#EXTINF :0, Hustler
+http://92.60.230.204:7517/hustler/index.m3u8
+#EXTINF :0, Hustler Blue
+http://92.60.230.204:7517/hustlerblue/index.m3u8
+#EXTINF :0, Private TV
+http://92.60.230.204:7517/privatetv/index.m3u8
+#EXTINF :0, Redlight
+http://92.60.230.204:7517/redlight/index.m3u8
